@@ -1,0 +1,13 @@
+app:
+  env: development
+  log_level: debug
+
+db:
+  ip: 192.168.40.172
+  port: 3306
+  db_name: flexcloud
+  user: root
+  passwd: NSwRoB6aYHJAjmGo
+  charset: utf8
+
+
