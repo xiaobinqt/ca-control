@@ -1,4 +1,4 @@
-package tcpmux
+package mux
 
 import (
 	"bytes"
