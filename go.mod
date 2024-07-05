@@ -1,4 +1,4 @@
-module dsphere
+module k0s
 
 go 1.18
 
